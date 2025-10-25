@@ -21,8 +21,7 @@ This implementation served as a practical exercise to reinforce core Java concep
 ---
 
 ## Project Structure
-TicTacToeProject/ 
-│ ├── src/ │ └── main/java/org/example/Main.java # Contains all game logic and the main execution method. │ ├── pom.xml # Standard Maven configuration file.└── README.md # Project documentation
+TicTacToeProject/ │ ├── src/ │ └── main/java/org/example/Main.java # Contains all game logic and the main execution method. │ ├── pom.xml # Standard Maven configuration file. └── README.md # Project documentation
 
 ---
 
